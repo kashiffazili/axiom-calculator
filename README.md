@@ -101,7 +101,7 @@ axiom-calculator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/axiom-calculator.git
+git clone https://github.com/kashiffazili/axiom-calculator.git
 cd axiom-calculator
 ```
 
