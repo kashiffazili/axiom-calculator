@@ -58,13 +58,13 @@ The application is **client-side only**: calculations run locally in the browser
 ## Preview
 
 ### Scientific Calculator
-![AXIOM Scientific Calculator](screenshots/calculator.png)
+![AXIOM Scientific Calculator](Screenshots/calculator.png)
 
 ### Equation Solver
-![AXIOM Equation Solver](screenshots/equation-solver.png)
+![AXIOM Equation Solver](Screenshots/equation-solver.png)
 
 ### Matrix Studio
-![AXIOM Matrix Studio](screenshots/matrix-studio.png)
+![AXIOM Matrix Studio](Screenshots/matrix-studio.png)
 
 ## Project Structure
 
@@ -73,7 +73,7 @@ axiom-calculator/
 ├── .github/
 │   └── workflows/
 │       └── build.yml
-├── screenshots/
+├── Screenshots/
 │   ├── calculator.png
 │   ├── equation-solver.png
 │   └── matrix-studio.png
