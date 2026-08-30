@@ -55,6 +55,17 @@ The application is **client-side only**: calculations run locally in the browser
 - **Framer Motion** — animations
 - **Lucide React** — icons
 
+## Preview
+
+### Scientific Calculator
+![AXIOM Scientific Calculator](screenshots/calculator.png)
+
+### Equation Solver
+![AXIOM Equation Solver](screenshots/equation-solver.png)
+
+### Matrix Studio
+![AXIOM Matrix Studio](screenshots/matrix-studio.png)
+
 ## Project Structure
 
 ```text
@@ -62,6 +73,10 @@ axiom-calculator/
 ├── .github/
 │   └── workflows/
 │       └── build.yml
+├── screenshots/
+│   ├── calculator.png
+│   ├── equation-solver.png
+│   └── matrix-studio.png
 ├── src/
 │   ├── components/
 │   │   ├── CalculatorTab.tsx
